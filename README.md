@@ -3,7 +3,8 @@
 
 Welcome to the official repository for **RoadSceneVQA**, a large-scale and richly annotated visual question answering (VQA) dataset specifically tailored for roadside scenarios]This dataset is introduced in our AAAI 2026 paper: *"RoadSceneVQA: Benchmarking Visual Question Answering in Roadside Perception Systems for Intelligent Transportation System"*.
 
-🔗 **Dataset Link**: [baidu disk download link](https://pan.baidu.com/s/1D3MZLe4cQff52DVti7Kr0w)  Password: 48a8
+🔗 **Dataset Link**: [baidu disk download link](https://pan.baidu.com/s/1D3MZLe4cQff52DVti7Kr0w)  
+    Password: 48a8
 
 ## 💡 Introduction
 
